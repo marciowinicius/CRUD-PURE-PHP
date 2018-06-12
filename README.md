@@ -2,7 +2,8 @@
 
 
 # Oque é necessário ?
-- PHP >= 7
+- PHP
+- MySQL
 
 # Observações para funcionamento do projeto
 > 1 - Faça o clone para seu computador.
